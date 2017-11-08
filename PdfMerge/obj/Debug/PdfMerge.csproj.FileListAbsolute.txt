@@ -1,0 +1,15 @@
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\obj\Debug\PdfMerge.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\bin\Debug\PdfMerge.exe.config
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\bin\Debug\PdfMerge.exe
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\bin\Debug\PdfMerge.pdb
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\bin\Debug\Newtonsoft.Json.dll
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\bin\Debug\Newtonsoft.Json.xml
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\obj\Debug\PdfMerge.exe
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\obj\Debug\PdfMerge.pdb
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\bin\Debug\PdfSharp.Charting.dll
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\bin\Debug\PdfSharp.dll
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\bin\Debug\PdfSharp.xml
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\bin\Debug\PdfSharp.Charting.xml
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\bin\Debug\de\PdfSharp.resources.dll
+c:\users\robert\documents\visual studio 2017\Projects\PdfMerge\PdfMerge\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\PdfMerge\PdfMerge\obj\Debug\PdfMerge.csproj.CoreCompileInputs.cache
